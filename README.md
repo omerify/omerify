@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<img src="logo-100px.png">
+
+* 📝&nbsp; blog:&nbsp; <https://blog.omerify.com>
+* 🐦&nbsp; twitter:&nbsp; <https://twitter.com/omerify>
+* 📫&nbsp; email:&nbsp; <omerify@protonmail.com>
+
+
 <!--
 **omerify/omerify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
