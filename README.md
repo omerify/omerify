@@ -4,7 +4,7 @@
 
 * 📝&nbsp; blog:&nbsp; <https://blog.omerify.com>
 * 🐦&nbsp; twitter:&nbsp; <https://twitter.com/omerify>
-* 📫&nbsp; email:&nbsp; <omerify@protonmail.com>
+* 📫&nbsp; email:&nbsp; <omerify@gnmail.com>
 
 
 <!--
