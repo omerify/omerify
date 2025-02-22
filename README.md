@@ -2,9 +2,9 @@
 
 <img src="logo-100px.png">
 
-* 📝&nbsp; blog:&nbsp; <https://blog.omerify.com>
+* 📝&nbsp; blog:&nbsp; <https://omerify.com>
 * 🐦&nbsp; twitter:&nbsp; <https://twitter.com/omerify>
-* 📫&nbsp; email:&nbsp; <omerify@gnmail.com>
+* 📫&nbsp; email:&nbsp; <omerify@gmail.com>
 
 
 <!--
