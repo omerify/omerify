@@ -28,8 +28,8 @@
 ### 📈 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omerify&show_icons=true&theme=radical&bg_color=0a0a0c&title_color=00ffcc&icon_color=00ffcc&text_color=e2e2e2&border_color=151518" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerify&layout=compact&theme=radical&bg_color=0a0a0c&title_color=00ffcc&icon_color=00ffcc&text_color=e2e2e2&border_color=151518" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=omerify&show_icons=true&theme=radical&bg_color=0a0a0c&title_color=00ffcc&icon_color=00ffcc&text_color=e2e2e2&border_color=151518" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=omerify&layout=compact&theme=radical&bg_color=0a0a0c&title_color=00ffcc&icon_color=00ffcc&text_color=e2e2e2&border_color=151518" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
