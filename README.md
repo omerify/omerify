@@ -25,19 +25,6 @@
   <img src="https://img.shields.io/badge/-VS%20Code-151518?style=flat-square&logo=visual-studio-code&logoColor=00ffcc" alt="VS Code" />
 </p>
 
-### 📈 GitHub İstatistikleri
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=omerify&show_icons=true&theme=radical&bg_color=0a0a0c&title_color=00ffcc&icon_color=00ffcc&text_color=e2e2e2&border_color=151518" alt="GitHub Stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=omerify&layout=compact&theme=radical&bg_color=0a0a0c&title_color=00ffcc&icon_color=00ffcc&text_color=e2e2e2&border_color=151518" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omerify&theme=radical&background=0a0a0c&ring=00ffcc&fire=ff0055&currStreakNum=00ffcc&sideLabels=e2e2e2&dates=8b8b99&border=151518" alt="GitHub Streak" width="98%" />
-</p>
-
-<hr />
-
 ### 🔗 Sosyal Medya
 
 <p align="left">
