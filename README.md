@@ -1,7 +1,7 @@
 #
 
 <p align="center">
-  <img src="banner.svg" alt="omerify banner" width="100%" />
+  <img src="banner.svg?v=2" alt="omerify banner" width="100%" />
 </p>
 
 <p align="center">
