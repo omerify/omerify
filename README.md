@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://omerify.com"><img src="https://img.shields.io/badge/Website-omerify.com-00ffcc?style=for-the-badge&logo=google-chrome&logoColor=0a0a0c&labelColor=151518" alt="Website" /></a>
-  <a href="https://blog.omerify.com"><img src="https://img.shields.io/badge/Blog-blog.omerify.com-00ffcc?style=for-the-badge&logo=blogger&logoColor=0a0a0c&labelColor=151518" alt="Blog" /></a>
-  <a href="mailto:omerify@gmail.com"><img src="https://img.shields.io/badge/Email-Email%20Me-00ffcc?style=for-the-badge&logo=gmail&logoColor=0a0a0c&labelColor=151518" alt="Email" /></a>
+  <a href="https://omerify.com"><img src="https://img.shields.io/badge/Website-omerify.com-33ffdd?style=for-the-badge&logo=google-chrome&logoColor=0a0a0c&labelColor=151518" alt="Website" /></a>
+  <a href="https://blog.omerify.com"><img src="https://img.shields.io/badge/Blog-blog.omerify.com-33ffdd?style=for-the-badge&logo=blogger&logoColor=0a0a0c&labelColor=151518" alt="Blog" /></a>
+  <a href="mailto:omerify@gmail.com"><img src="https://img.shields.io/badge/Email-Email%20Me-33ffdd?style=for-the-badge&logo=gmail&logoColor=0a0a0c&labelColor=151518" alt="Email" /></a>
 </p>
 
 <hr />
